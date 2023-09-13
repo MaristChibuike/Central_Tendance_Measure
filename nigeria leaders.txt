@@ -1,0 +1,17 @@
+| Leader|Title|Term|
+|Nnamdi Azikiwe|Governor-General (Monarch) |1960-1963|
+|Nnamdi Azikiwe|Civilian President |1963|
+|Johnson Aguiyi-Ironsi|Military Head of State|1966|
+|Yakubu Gowon|Military Head of State|1966-1975 |
+|Murtala Mohammed |Military Head of State|1975-1976 |
+|Olusegun Obasanjo|Military Head of State |1976-1979 |
+|Shehu Shagari |Civilian President|1979-1983 |
+|Muhammadu Buhari |Military Head of State |1983-1985 |
+|Ibrahim Babangida|Military President|1985-1993 |
+|Ernest Shonekan|Interim President|1993|
+|Sani Abacha|Military Head of State|1993-1998 |
+|Abdulsalami Abubakar|Military Head of State |1998-1999 |
+|Olusegun Obasanjo (2nd time) |Civilian President |1999-2007|
+|Umaru Musa Yar’Adua |Civilian President|2007-2010 |
+|Goodluck Jonathan|Civilian President|2010-2015 |
+|Muhammadu Buhari (2nd time) |Civilian President |2015-present|
